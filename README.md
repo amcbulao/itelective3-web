@@ -28,6 +28,7 @@ This project was initiated in compliance with the needs of the **Ateneo de Davao
 * [About the System](#about-the-system)
     * [Functionalities](#functionalities)
     * [Possible Sub-Systems](#possible-sub-systems)
+* [Contact](#contact)
 
 ## Frameworks Used
 This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack. The following are the technologies used in this stack:
@@ -60,8 +61,8 @@ This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-s
 <p align="justify">
    The <strong>Exam Management System</strong> or <strong>Student Assessment Management System</strong> aims to create an information system that enables the digitization of tasks concerned with student grades (these basic tasks are listed below). The rationale for creating such a system is to minimize, or possibly eliminate, the need for paper and other physical means of storing student grades or records. The system would allow for the decluttering of tables, shelves, filing cabinets, and other spaces which would be otherwise filled with the aforementioned student records. Furthermore, the system was designed with teachers, students, and other school personnel in mind.
 </p>
-<p>
-   
+<p align="justify">
+   As previously mentioned, the main users of this system will be the teachers, students, and school personnel that handle student records. In its current state, the system allows a teacher user to record and view student grades. Additionally, they can distribute report cards remotely. Student users can view their grades inputted by teacher users and retrieve their report cards. Other personnel, a printing administrator for example, have the ability to create report cards and view student grades as well.
 </p>
    
 ### Functionalities
