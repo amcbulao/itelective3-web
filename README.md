@@ -1,16 +1,16 @@
 # Exam Management System
 <p>
    <a href="#mongodb">
-      <img src="https://img.shields.io/badge/-MongoDB-4fa940?style=plastic&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white">
    </a>
    <a href="#express">
       <img src="https://img.shields.io/badge/-Express-221e1f?style=plastic&logo=express">
    </a>
    <a href="#vuejs">
-      <img src="https://img.shields.io/badge/-Vue.js-41b783?style=plastic&logo=vuedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white">
    </a>
    <a href="#nodejs">
-      <img src="https://img.shields.io/badge/-Node.js-3b963b?style=plastic&logo=nodedotjs&logoColor=white">
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
    </a>
 </p>
 <img src="./images/addu-cs-logo.png" width="150" align="right" alt="AdDU CS Department logo." title="AdDU CS Department logo">
