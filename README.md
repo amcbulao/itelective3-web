@@ -32,11 +32,13 @@ This project was initiated in compliance with the needs of the **Ateneo de Davao
 ## Frameworks Used
 This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack. Listed below are the technologies used in this stack.
 ### [MongoDB](https://www.mongodb.com/)
-<img src="./images/mongodb-logo-light.png" width="150" align="right" alt="MongoDB logo." title="MongoDB logo">
+<img src="./images/mongodb-logo.png#gh-dark-mode-only" width="150" align="right" alt="MongoDB logo." title="MongoDB logo">
+<img src="./images/mongodb-logo-light.png#gh-light-mode-only" width="150" align="right" alt="MongoDB logo." title="MongoDB logo">
 
 > MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.[^1]
 ### [Express](https://expressjs.com/)
-<img src="./images/express-logo.png" width="75" align="right" alt="Express logo." title="Express logo">
+<img src="./images/express-logo-dark.png#gh-dark-mode-only" width="75" align="right" alt="Express logo." title="Express logo">
+<img src="./images/express-logo.png#gh-light-mode-only" width="75" align="right" alt="Express logo." title="Express logo">
 
 > Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.[^2]
 ### [Vue.js](https://vuejs.org/)
