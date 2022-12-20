@@ -12,6 +12,7 @@ This project was initiated in compliance with the needs of the **Ateneo de Davao
     * [Vue.js](#vuejs)
     * [Node.js](#nodejs)
 * [About the System](#about-the-system)
+    * [Functionalities](#functionalities)
     * [Possible Sub-Systems](#possible-sub-systems)
 
 ## Frameworks Used
@@ -34,8 +35,20 @@ This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-s
 > As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep.[^4]
 
 ## About the System
+Hello World
+
+### Functionalities
+The main system is designed to accomplish these basic tasks:
+* Record grades
+* View grades
+* Create report cards
+* Distribute report cards
 
 ### Possible Sub-Systems
+* Student Profiling System
+* Teacher Profiling System
+* Curriculum Management System
+* Grade Appeal System
 
 [^1]: [What Is MongoDB?](https://www.mongodb.com/what-is-mongodb)
 [^2]: [Express](https://expressjs.com/)
