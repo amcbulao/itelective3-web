@@ -15,7 +15,7 @@ This project was initiated in compliance with the needs of the **Ateneo de Davao
     * [Possible Sub-Systems](#possible-sub-systems)
 
 ## Frameworks Used
-This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack; listed are the technologies used in the stack.
+This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack. Listed below are the technologies used in this stack.
 ### [MongoDB](https://www.mongodb.com/)
 <img src="./images/mongodb-logo-light.png" width="150" align="right" alt="MongoDB logo." title="MongoDB logo">
 
@@ -40,4 +40,4 @@ This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-s
 [^1]: [What Is MongoDB?](https://www.mongodb.com/what-is-mongodb)
 [^2]: [Express](https://expressjs.com/)
 [^3]: [What is Vue?](https://vuejs.org/guide/introduction.html)
-[^4]: [About Node.js®](https://nodejs.org/en/about/)
+[^4]: [About Node.js](https://nodejs.org/en/about/)
