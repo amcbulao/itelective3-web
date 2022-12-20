@@ -30,7 +30,7 @@ This project was initiated in compliance with the needs of the **Ateneo de Davao
     * [Possible Sub-Systems](#possible-sub-systems)
 
 ## Frameworks Used
-This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack. Listed below are the technologies used in this stack.
+This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack. The following are the technologies used in this stack:
 ### [MongoDB](https://www.mongodb.com/)
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="./images/mongodb-logo.png">
@@ -50,14 +50,13 @@ This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-s
 ### [Vue.js](https://vuejs.org/)
 <img src="./images/vue-logo.png" width="100" align="right" alt="Vue.js logo." title="Vue.js logo">
 
-> Vue (pronounced /vjuː/, like view) is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.[^3]
+> Vue is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS, and JavaScript and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be they simple or complex.[^3]
 ### [Node.js](https://nodejs.org/en/)
 <img src="./images/nodejs-logo.png" width="125" align="right" alt="Node.js logo." title="Node.js logo">
 
-> As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following "hello world" example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep.[^4]
+> As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications.[^4]
 
 ## About the System
-Hello World
 
 ### Functionalities
 The main system is designed to accomplish these basic tasks:
@@ -67,6 +66,7 @@ The main system is designed to accomplish these basic tasks:
 * Distribute report cards
 
 ### Possible Sub-Systems
+The current system can be further improved and augmented through the implementation of sub-systems with additional functionalities.
 * Student Profiling System
 * Teacher Profiling System
 * Curriculum Management System
