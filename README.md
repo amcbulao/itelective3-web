@@ -33,8 +33,8 @@ This project was initiated in compliance with the needs of the **Ateneo de Davao
 This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack. Listed below are the technologies used in this stack.
 ### [MongoDB](https://www.mongodb.com/)
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="./images/mongodb-logo-light.png">
-   <source media="(prefers-color-scheme: light)" srcset="./images/mongodb-logo.png">
+   <source media="(prefers-color-scheme: dark)" srcset="./images/mongodb-logo.png">
+   <source media="(prefers-color-scheme: light)" srcset="./images/mongodb-logo-light.png">
    <img src="./images/mongodb-logo.png" width="150" align="right" alt="MongoDB logo." title="MongoDB logo">
 </picture>
 
