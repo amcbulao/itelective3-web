@@ -79,7 +79,7 @@ The current system can be further improved and augmented through the implementat
 * Curriculum Management System
 * Grade Appeal System
 
-### Contact
+## Contact
 Created by [@mykh3l_](https://twitter.com/mykh3l_)
 
 [^1]: [What Is MongoDB?](https://www.mongodb.com/what-is-mongodb)
