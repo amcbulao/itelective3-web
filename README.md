@@ -57,7 +57,13 @@ This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-s
 > As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications.[^4]
 
 ## About the System
-
+<p align="justify">
+   The <strong>Exam Management System</strong> or <strong>Student Assessment Management System</strong> aims to create an information system that enables the digitization of tasks concerned with student grades (these basic tasks are listed below). The rationale for creating such a system is to minimize, or possibly eliminate, the need for paper and other physical means of storing student grades or records. The system would allow for the decluttering of tables, shelves, filing cabinets, and other spaces which would be otherwise filled with the aforementioned student records. Furthermore, the system was designed with teachers, students, and other school personnel in mind.
+</p>
+<p>
+   
+</p>
+   
 ### Functionalities
 The main system is designed to accomplish these basic tasks:
 * Record grades
@@ -71,6 +77,9 @@ The current system can be further improved and augmented through the implementat
 * Teacher Profiling System
 * Curriculum Management System
 * Grade Appeal System
+
+### Contact
+Created by [@mykh3l_](https://twitter.com/mykh3l_)
 
 [^1]: [What Is MongoDB?](https://www.mongodb.com/what-is-mongodb)
 [^2]: [Express](https://expressjs.com/)
