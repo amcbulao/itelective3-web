@@ -40,8 +40,11 @@ This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-s
 
 > MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.[^1]
 ### [Express](https://expressjs.com/)
-<img src="./images/express-logo-dark.png#gh-dark-mode-only" width="75" align="right" alt="Express logo." title="Express logo">
-<img src="./images/express-logo.png#gh-light-mode-only" width="75" align="right" alt="Express logo." title="Express logo">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="./images/express-logo-dark.png">
+   <source media="(prefers-color-scheme: light)" srcset="./images/express-logo.png">
+   <img src="./images/express-logo.png" width="75" align="right" alt="Express logo." title="Express logo">
+</picture>
 
 > Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.[^2]
 ### [Vue.js](https://vuejs.org/)
