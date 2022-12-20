@@ -32,8 +32,11 @@ This project was initiated in compliance with the needs of the **Ateneo de Davao
 ## Frameworks Used
 This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack. Listed below are the technologies used in this stack.
 ### [MongoDB](https://www.mongodb.com/)
-<img src="./images/mongodb-logo.png#gh-dark-mode-only" width="150" align="right" alt="MongoDB logo." title="MongoDB logo">
-<img src="./images/mongodb-logo-light.png#gh-light-mode-only" width="150" align="right" alt="MongoDB logo." title="MongoDB logo">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="./images/mongodb-logo-light.png">
+   <source media="(prefers-color-scheme: light)" srcset="./images/mongodb-logo.png">
+   <img src="./images/mongodb-logo.png" width="150" align="right" alt="MongoDB logo." title="MongoDB logo">
+</picture>
 
 > MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need.[^1]
 ### [Express](https://expressjs.com/)
