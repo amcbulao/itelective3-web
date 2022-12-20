@@ -5,6 +5,15 @@ A student assessment management system to be used by faculty members, students, 
 
 This project was initiated in compliance with the needs of the **Ateneo de Davao University - Computer Studies** organization.
 
+## Table of Contents
+* [Frameworks Used](#frameworks-used)
+    * [MongoDB](#mongodb)
+    * [Express](#express)
+    * [Vue.js](#vuejs)
+    * [Node.js](#nodejs)
+* [About the System](#about-the-system)
+    * [Possible Sub-Systems](#possible-sub-systems)
+
 ## Frameworks Used
 This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-stack) stack; listed are the technologies used in the stack.
 ### [MongoDB](https://www.mongodb.com/)
