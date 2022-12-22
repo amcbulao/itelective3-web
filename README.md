@@ -1,4 +1,4 @@
-# Exam Management System
+# Exam/Student Assessment Management System
 <p>
    <a href="#mongodb">
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white">
@@ -15,7 +15,7 @@
 </p>
 <img src="./images/addu-cs-logo.png" width="150" align="right" alt="AdDU CS Department logo." title="AdDU CS Department logo">
 
-A student assessment management system to be used by faculty members, students, and other members of an educational insitution requiring access to student grades. 
+A centralized system to manage the academics department of an educational institution.
 
 This project was initiated in compliance with the needs of the **Ateneo de Davao University - Computer Studies** organization.
 
@@ -59,10 +59,10 @@ This project utilizes the [MEVN](https://www.educative.io/answers/what-is-mevn-s
 
 ## About the System
 <p align="justify">
-   The <strong>Exam Management System</strong> or <strong>Student Assessment Management System</strong> aims to create an information system that enables the digitization of tasks concerned with student grades (these basic tasks are listed below). The rationale for creating such a system is to minimize, or possibly eliminate, the need for paper and other physical means of storing student grades or records. The system would allow for the decluttering of tables, shelves, filing cabinets, and other spaces which would be otherwise filled with the aforementioned student records. Furthermore, the system was designed with teachers, students, and other school personnel in mind.
+   The <strong>Exam Management System</strong> or <strong>Student Assessment Management System</strong> aims to create an information system that enables the digitization of tasks concerned with the academics department of an educational institution. The rationale for creating such a system is to minimize, or possibly eliminate, the need for paper and other physical means of storing important records such as student grades. The system would allow for the decluttering of tables, shelves, filing cabinets, and other spaces which would be otherwise filled with the aforementioned records, documents, or paperwork. Furthermore, the system was designed with teachers, students, and other school personnel in mind.
 </p>
 <p align="justify">
-   As previously mentioned, the main users of this system will be the teachers, students, and school personnel that handle student records. In its current state, the system allows a teacher user to record and view student grades. Additionally, they can distribute report cards remotely. Student users can view their grades inputted by teacher users and retrieve their report cards. Other personnel, a printing administrator for example, have the ability to create report cards and view student grades as well.
+   The system can create and register different types of user accounts; these user accounts include but are not limited to: teachers, students, a registrar, and an administrator account. Teacher users will be able to perform basic tasks such as recording and viewing student grades, they can also distribute student report cards remotely. Student users can view grades inputted by their teacher and retrieve their report cards. Additionally, they are able to view their registration for the current semester or academic school year.  A registrar user can do the same tasks as teacher and student users but with additional privileges, they can create teacher and student profiles in the system.
 </p>
    
 ### Functionalities
@@ -71,12 +71,15 @@ The main system is designed to accomplish these basic tasks:
 * View grades
 * Create report cards
 * Distribute report cards
+* Student Profiling System
+* Teacher Profiling System
 
 ### Possible Sub-Systems
 The current system can be further improved and augmented through the implementation of sub-systems with additional functionalities.
-* Student Profiling System
-* Teacher Profiling System
 * Curriculum Management System
+* Class Scheduling System
+* Library Records System
+* Account Balance System
 * Grade Appeal System
 
 ## Contact
