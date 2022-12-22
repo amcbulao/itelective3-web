@@ -15,7 +15,7 @@
 </p>
 <img src="./images/addu-cs-logo.png" width="150" align="right" alt="AdDU CS Department logo." title="AdDU CS Department logo">
 
-A centralized system to manage the academics department of an educational institution.
+A centralized system to simplify tasks involved in managing the academics department of an educational institution.
 
 This project was initiated in compliance with the needs of the **Ateneo de Davao University - Computer Studies** organization.
 
@@ -71,8 +71,8 @@ The main system is designed to accomplish these basic tasks:
 * View grades
 * Create report cards
 * Distribute report cards
-* Student Profiling System
-* Teacher Profiling System
+* Student Profiling
+* Teacher Profiling
 
 ### Possible Sub-Systems
 The current system can be further improved and augmented through the implementation of sub-systems with additional functionalities.
