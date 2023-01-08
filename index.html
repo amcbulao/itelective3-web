@@ -35,7 +35,7 @@
 
             <h1 class="text-3xl font-semibold dark:text-white mb-2">Adrianne Bulao</h1>
             <h1 class="text-2xl dark:text-white mb-8">amcbulao@addu.edu.ph</h1>
-            <button class="rounded-lg bg-blue-600 hover:bg-blue-700 pt-3 pb-3 pl-6 pr-9 text-lg font-medium text-white tracking-wider"><img class="h-4 w-4 inline ml-3 mr-3" src="./images/following-icon.svg"> Follow Me</button>
+            <button onclick="followMe()" class="rounded-lg bg-blue-600 hover:bg-blue-700 active:bg-blue-800 pt-3 pb-3 pl-6 pr-9 text-lg font-medium text-white tracking-wider"><img class="h-4 w-4 inline ml-3 mr-3" src="./images/following-icon.svg"> Follow Me</button>
             <div class="mt-8 w-full grid grid-cols-2 gap-2 place-content-around">
                 <h1 class="text-center font-normal text-3xl dark:text-white">12.6K</h1>
                 <h1 class="text-center font-normal text-3xl dark:text-white">85</h1>
@@ -46,6 +46,10 @@
     </div>
 
     <script>
+        function followMe() {
+            console.log("Hello World!");
+        }
+
         var themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
         var themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
         
